@@ -17,7 +17,7 @@ Before we move on to the manifesto, we need to talk about the problems. These pr
 
 Simply put, a matrix database (n to n) over (n to n)... is a data structure that is the result of properly parallel clustering of infinite data blocks. It should be noted that the value of n is not an estimated value. The length of strings parallel to the data block derived by the system based on the data. Each block represents a submatrix containing subblocks. And indexed data structures are available in blocks.
 
-##constants
+## Constants
 
 ### Cluster:
 Clusters are systematic portals containing hierarchical data blocks. The purpose of these portals is to make data transactions quickly thanks to double-sided transitions. In this way, high-function querying can be made based on a timeless or timed calculation of the upstream and downstream flow. Clusters can recursively repeat themselves in the blocks under them, thanks to portals.
